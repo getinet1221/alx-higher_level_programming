@@ -1,6 +1,6 @@
 Welcome to ALX Africa HIgher level Programming
 # 0x01. Python - if/else, loops, functions
-### ** General **
+**General**
 -Why Python programming is awesome
 -Why indentation is so important in Python
 -How to use the if, if ... else statements
