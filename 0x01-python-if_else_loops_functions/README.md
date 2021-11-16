@@ -30,7 +30,7 @@ This program will assign a random signed number to the variable number each time
 	-  if the number is 0: is zero
 	-  if the number is less than 0: is negative
 -  followed by a new line
-**Repo:**
+	- **Repo:**
 
 -  GitHub repository: alx-higher_level_programming
 -  Directory: 0x01-python-if_else_loops_functions
