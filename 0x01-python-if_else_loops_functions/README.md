@@ -53,3 +53,5 @@ This program will assign a random signed number to the variable number each time
 	-  **GitHub repository:** alx-higher_level_programming
 	-  **Directory:** 0x01-python-if_else_loops_functions
 	-  **File:** 1-last_digit.py
+**3. When I was having that alphabet soup, I never thought that it would pay off **
+	-  **File:** 3-print_alphabt.py
