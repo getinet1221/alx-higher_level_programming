@@ -33,6 +33,7 @@ Why Python programming is awesome (don’t forget to tweet today, with the hasht
 -  Technical interview preparation:
 #### [14. CPython #0: Python lists](https://github.com/getinet1221/alx-higher_level_programming/blob/master/0x03-python-data_structures/13-is_palindrome.c)
 - CPython is the reference implementation of the Python programming language. Written in C, CPython is the default and most widely used implementation of the language. Since we now know a bit of C, we can look at what is happening under the hood of Python. Let’s have fun with Python and C, and let’s look at what makes Python so easy to use.
+<hr/>
 ### Author
 - [Getinet Amare Mekonnen](https://github.com/getinet1221)
 - [Telegram: ](https://t.me/gama1221)
