@@ -3,8 +3,7 @@
 What you should learn from this project:
 <br/>
 Why Python programming is awesome (don’t forget to tweet today, with the hashtag #pythoniscool :)) What are lists and how to use them What are the differences and similarities between strings and lists What are the most common methods of lists and how to use them How to use lists as stacks and queues What are list comprehensions and how to use them What are tuples and how to use them When to use tuples versus lists What is a sequence What is tuple packing What is sequence unpacking What is the del statement and how to use it <br/>
-0. Print a list of integers
-Write a function that prints all integers of a list.
+#### [0. Print a list of integer](https://github.com/getinet1221/alx-higher_level_programming/blob/master/0x03-python-data_structures/0-print_list_integer.py)
 1. Secure access to an element in a list
 Write a function that retrieves an element from a list like in C.
 2. Replace element
