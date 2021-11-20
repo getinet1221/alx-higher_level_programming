@@ -1,7 +1,7 @@
 ## 0x03. Python - Data Structures: Lists, Tuples
 ### Tasks
 [0. Print a list of integers ](https://github.com/getinet1221/alx-higher_level_programming/blob/master/0x03-python-data_structures/0-print_list_integer.py)
-[1. Secure access to an element in a list](https://github.com/getinet1221/alx-higher_level_programming/blob/master/0x03-python-data_structures/1-element_at.py)
+  [1. Secure access to an element in a list](https://github.com/getinet1221/alx-higher_level_programming/blob/master/0x03-python-data_structures/1-element_at.py)
 [2. Replace element](https://github.com/getinet1221/alx-higher_level_programming/blob/master/0x03-python-data_structures/2-replace_in_list.py)
 [3. Print a list of integers... in reverse!](https://github.com/getinet1221/alx-higher_level_programming/blob/master/0x03-python-data_structures/3-print_reversed_list_integer.py)
 [4. Replace in a copy](https://github.com/getinet1221/alx-higher_level_programming/blob/master/0x03-python-data_structures/4-new_in_list.py)
