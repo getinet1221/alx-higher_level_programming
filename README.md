@@ -37,5 +37,5 @@ This repository contains introductory projects for higher-level programming. Top
 3. [0x02-python-import_modules](https://github.com/getinet1221/alx-higher_level_programming/tree/master/0x02-python-import_modules)
 4. [0x03-python-data_structures](https://github.com/getinet1221/alx-higher_level_programming/tree/master/0x03-python-data_structures)
 ## Credits
-Work is owned and maintained by Getinet Amare Mekonnen([@getinet1221](https://github.com/getinet1221))
+Work is owned and maintained by ** Getinet Amare Mekonnen ** ([@getinet1221](https://github.com/getinet1221))
 
