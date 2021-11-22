@@ -1,4 +1,9 @@
 #!/usr/bin/python3
 def print_matrix_integer(matrix=[[]]):
-    for elm in matrix:
-        print(",".join("{:d}".format(i) for i in elm)
+    if matrix == [[]]:
+        print()
+    else:
+        for row in matrix:
+            for column in row:
+                print('{:d}'.format(column), end=' '
+                      if column != row[-1] else '\n')
