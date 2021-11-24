@@ -38,6 +38,8 @@ This repository contains introductory projects for higher-level programming. Top
 4. [0x03-python-data_structures](https://github.com/getinet1221/alx-higher_level_programming/tree/master/0x03-python-data_structures)
 5. [0x04-python-more_data_structures](https://github.com/getinet1221/alx-higher_level_programming/tree/master/0x04-python-more_data_structures)
 
-## Credits
+## Author
 - Work is owned and maintained by **Getinet Amare Mekonnen** ([@getinet1221](https://github.com/getinet1221))
 - [Telegram](https://t.me/gama1221)
+- <img src="https://github.com/getinet1221/alx-higher_level_programming/blob/master/GetinetAmareMekonnen.png" align="left" style="border-radius:50%" height="48" width="48"> =>
+Make it work, make it right, make it fast
