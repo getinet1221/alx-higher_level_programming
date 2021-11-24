@@ -39,5 +39,5 @@ Why Python programming is awesome (don’t forget to tweet today, with the hasht
 [![Click](https://github.com/getinet1221/alx-higher_level_programming/blob/master/0x03-python-data_structures/telegram.png)](https://t.me/gama1221)
 ![click](https://github.com/getinet1221/alx-higher_level_programming/blob/master/GetinetAmareMekonnen.png)
 <br />
-<a href="url"><img src="https://github.com/getinet1221/alx-higher_level_programming/blob/master/GetinetAmareMekonnen.png" align="left" border-radius: 50%;height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/getinet1221/alx-higher_level_programming/blob/master/GetinetAmareMekonnen.png" align="left" style='border-radius: 50%';height="48" width="48" ></a>
 Make it work, make it right, make it fast
