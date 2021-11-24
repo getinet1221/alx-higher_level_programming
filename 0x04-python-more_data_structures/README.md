@@ -68,7 +68,7 @@ Write a function that prints a dictionary by ordered keys.
 - Only sort keys of the first level (don’t sort keys of a dictionary inside the main dictionary)
 - Dictionary values can have any type
 - You are not allowed to import any module
-#### [7-update_dictionary.py]https://github.com/getinet1221/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/7-update_dictionary.py()
+#### [7-update_dictionary.py](https://github.com/getinet1221/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/7-update_dictionary.py)
 Write a function that replaces or adds key/value in a dictionary.
 
 - Prototype: def update_dictionary(a_dictionary, key, value):
