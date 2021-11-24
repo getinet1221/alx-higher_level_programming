@@ -37,3 +37,4 @@ Why Python programming is awesome (don’t forget to tweet today, with the hasht
 - [Getinet Amare Mekonnen](https://github.com/getinet1221)![click](https://github.com/getinet1221/alx-higher_level_programming/blob/master/0x03-python-data_structures/github.png)
 - [Telegram: ](https://t.me/gama1221)
 [![Click](https://github.com/getinet1221/alx-higher_level_programming/blob/master/0x03-python-data_structures/telegram.png)](https://t.me/gama1221)
+![click](https://github.com/getinet1221/alx-higher_level_programming/blob/master/GetinetAmareMekonnen.png)Make it work, make it right, make it fast
