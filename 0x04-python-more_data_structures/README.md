@@ -162,3 +162,7 @@ Python lists:
 	- PyList_GetItem
 	- PyBytes_AS_STRING
 	- PyBytes_GET_SIZE
+## Author
+- [Getinet Amare Mekonnen](https://github.com/getinet1221)![click](https://github.com/getinet1221/alx-higher_level_programming/blob/master/0x03-python-data_structures/github.png)
+- [Telegram](https://t.me/gama1221)[![Click](https://github.com/getinet1221/alx-higher_level_programming/blob/master/0x03-python-data_structures/telegram.png)](https://t.me/gama1221)
+
