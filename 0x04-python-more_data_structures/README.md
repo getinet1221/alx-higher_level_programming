@@ -34,20 +34,20 @@ Write a function that computes the square value of all integers of a matrix.
 #### [1-search_replace.py](https://github.com/getinet1221/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/1-search_replace.py) 
 Write a function that replaces all occurrences of an element by another in a new list.
 
-- ** Prototype: ** def search_replace(my_list, search, replace):
-- ** my_list ** is the initial list
-- ** search ** is the element to replace in the list
-- ** replace ** is the new element
+- **Prototype:** def search_replace(my_list, search, replace):
+- **my_list** is the initial list
+- **search** is the element to replace in the list
+- **replace** is the new element
 - You are not allowed to import any module
 #### [2-uniq_add.py](https://github.com/getinet1221/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/2-uniq_add.py)
 Write a function that makes the addition of all unique integers in a list (only one time each integer).
 
-- ** Prototype:** def uniq_add(my_list=[]):
+- **Prototype:** def uniq_add(my_list=[]):
 - You are not allowed to import any module
 #### [3-common_elements.py](https://github.com/getinet1221/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/3-common_elements.py)
 Write a function that returns a set of common elements in two sets.
 
-- ** Prototype: ** def common_elements(set_1, set_2):
+- **Prototype:** def common_elements(set_1, set_2):
 - You are not allowed to import any module
 #### [4-only_diff_elements.py ](https://github.com/getinet1221/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/5-number_keys.py)
 Write a function that returns a set of all elements present in only one set.
@@ -141,18 +141,18 @@ Write a function that deletes keys with a specific value in a dictionary.
 Create two C functions that print some basic info about Python lists and Python bytes objects.
 Python lists:
 
-** Prototype: ** 
+**Prototype:** 
 - void print_python_list(PyObject *p);
 - Format: see example
 - Python bytes:
 
-** Prototype: ** 
+**Prototype:** 
 - void print_python_bytes(PyObject *p);
 - Format: see example
 - Line “first X bytes”: print a maximum of 10 bytes
 - If p is not a valid PyBytesObject, print an error message (see example)
 - Read /usr/include/python3.4/bytesobject.h
-** About: **
+**About:**
 
 - Python version: 3.4
 - Your shared library will be compiled with this command line: gcc -Wall -Werror -Wextra -pedantic -std=c99 -shared -Wl,-soname,libPython.so -o libPython.so -fPIC -I/usr/include/python3.4 103-python.c
