@@ -36,6 +36,8 @@ This repository contains introductory projects for higher-level programming. Top
 2. [0x01-python-if_else_loops_functions](https://github.com/getinet1221/alx-higher_level_programming/tree/master/0x01-python-if_else_loops_functions)
 3. [0x02-python-import_modules](https://github.com/getinet1221/alx-higher_level_programming/tree/master/0x02-python-import_modules)
 4. [0x03-python-data_structures](https://github.com/getinet1221/alx-higher_level_programming/tree/master/0x03-python-data_structures)
+5. [0x04-python-more_data_structures](https://github.com/getinet1221/alx-higher_level_programming/tree/master/0x04-python-more_data_structures)
+
 ## Credits
 - Work is owned and maintained by **Getinet Amare Mekonnen** ([@getinet1221](https://github.com/getinet1221))
 - [Telegram](https://t.me/gama1221)
