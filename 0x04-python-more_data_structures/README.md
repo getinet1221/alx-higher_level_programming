@@ -34,7 +34,7 @@ Write a function that computes the square value of all integers of a matrix.
 #### [1-search_replace.py](https://github.com/getinet1221/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/1-search_replace.py) 
 Write a function that replaces all occurrences of an element by another in a new list.
 
-- **Prototype:** def search_replace(my_list, search, replace):
+- **Prototype**: def search_replace(my_list, search, replace):
 - **my_list** is the initial list
 - **search** is the element to replace in the list
 - **replace** is the new element
