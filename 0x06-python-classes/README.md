@@ -141,5 +141,8 @@ vagrant:0x06-python-classes$ ./101-main.py
 
 <hr/>
 
-- [Getinet Amare Mekonne](https://www.github.com/getinet1221)
+- [Getinet Amare Mekonnen](https://www.github.com/getinet1221)
 - [Telegram](https://t.me/geama2112)
+-  <img src="https://github.com/getinet1221/alx-higher_level_programming/blob/master/GetinetAmareMekonnen.png" align="left" style="border-radius:50%" height="48" width="48"> =>
+Make it work, make it right, make it fast
+
