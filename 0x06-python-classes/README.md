@@ -137,4 +137,6 @@ vagrant:0x06-python-classes$ ./101-main.py
     #####
 ```
 
-2018 - All programs written by Derek Kwok ([@dlangshk](https://twitter.com/dlangshk)) at [DHK School](https://www.dhkschool.com/)
+### Author
+- [Getinet Amare Mekonne](https://www.github.com/getinet1221)
+- [Telegram](https://t.me/geama2112)
