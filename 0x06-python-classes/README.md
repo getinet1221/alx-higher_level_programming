@@ -138,5 +138,8 @@ vagrant:0x06-python-classes$ ./101-main.py
 ```
 
 ### Author
+
+<hr/>
+
 - [Getinet Amare Mekonne](https://www.github.com/getinet1221)
 - [Telegram](https://t.me/geama2112)
