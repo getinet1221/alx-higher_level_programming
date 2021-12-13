@@ -40,6 +40,6 @@ This repository contains introductory projects for higher-level programming. Top
 
 ## Author
 - Work is owned and maintained by **Getinet Amare Mekonnen** ([@getinet1221](https://github.com/getinet1221))
-- [Telegram](https://t.me/gama1221)
+- [Telegram](https://t.me/gama2112)
 - <img src="https://github.com/getinet1221/alx-higher_level_programming/blob/master/GetinetAmareMekonnen.png" align="left" style="border-radius:50%" height="48" width="48"> =>
 Make it work, make it right, make it fast
