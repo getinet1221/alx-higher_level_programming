@@ -9,7 +9,7 @@ class LockedClass:
         Except for first_name
     """
     def __setattr__(self, attribute, value):
-        if attribute == "first_name":
+        if attribute == "first_name" || "last_name":
             self.__dict__[attribute] = value
         else:
             raise AttributeError("'LockedClass' object has no attribute '" + attribute + "'")
