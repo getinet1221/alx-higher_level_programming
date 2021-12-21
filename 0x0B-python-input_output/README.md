@@ -81,6 +81,6 @@ a context manager.
 * **101. Log parsing**
   * [101-stats.py](./101-stats.py): Write a script that reads stdin line by line and computes metrics:
 ## Author
-- [Getinet Amare Mekonnen](https://www/github.com/getinet1221)
+- [Getinet Amare Mekonnen](https://www.github.com/getinet1221)
 - [Telegram](https://www.t.me/gama2112)
 
