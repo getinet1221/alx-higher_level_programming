@@ -78,3 +78,9 @@ a context manager.
 * **100. Search and update**
   * [100-append_after.py](./100-append_after.py): Python function that inserts a line of text to a
   file after each line containing a specified string.
+* **101. Log parsing**
+  * [101-stats.py](./101-stats.py): Write a script that reads stdin line by line and computes metrics:
+## Author
+- [Getinet Amare Mekonnen](https://www/github.com/getinet1221)
+- [Telegram](https://www.t.me/gama2112)
+
