@@ -1,9 +1,10 @@
-#!/usr/bin/pythhon3
-""" returns a json representation of an object
-"""
+#!/usr/bin/python3
+'''Module for class_to_json method.'''
 
 
 def class_to_json(obj):
-    """returns a json representation of
-    the obj object"""
-    return obj.__dict__
+    '''Returns dictionary description of json object.'''
+    if hasattr(obj, "__dict__"):
+        return obj.__dict__.copy()
+    else:
+        return {}
