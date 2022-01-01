@@ -93,4 +93,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Getinet Amare Mekonnen** - [Gama](https://github.com/getinet1221)
+* **Getinet Amare Mekonnen** - [Getinet Amare Mekonnen](https://github.com/getinet1221)
