@@ -114,5 +114,5 @@ $ cat 3-list_tables.sql | mysql -h localhost -u root -p mysql
   * [103-max_state.sql](./103-max_state.sql): MySQL script that displays the max temperature of each
   state in order of state name.
 ## Author
-- Name : [Getinet](https://github.com/getinet1221)
+- Github : [@getinet1221](https://github.com/getinet1221)
 
