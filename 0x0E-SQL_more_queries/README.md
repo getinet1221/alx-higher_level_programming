@@ -17,4 +17,4 @@
 - All SQL keywords should be in uppercase (SELECT, WHERE…)
 - A README.md file, at the root of the folder of the project, is mandatory
 - The length of your files will be tested using wc
-- **Join graphically** <img src="Join.png" height="500" width="500" alt="unable to view image" />
+- **Join graphically** <img src="Join.png" height="500" width="700" alt="unable to view image" />
