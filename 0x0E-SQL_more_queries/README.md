@@ -1,4 +1,5 @@
 ## 0x0E. SQL - More queries
+<img src="sampleJoin.jpg" height="400" width="600" alt="unable to show an image" />
 ### Learning objectives
 - How to create a new MySQL user
 - How to manage privileges for a user to a database or table
@@ -18,5 +19,7 @@
 - A README.md file, at the root of the folder of the project, is mandatory
 - The length of your files will be tested using wc
 - **Join graphically**
-<br />
 <img src="Join.png" height="500" width="700" alt="unable to view image" />
+## Task Lists
+* **0. My privileges!**
+	* [0. My privileges!](./0-privileges.sql) :Write a script that lists all privileges of the MySQL users user_0d_1 and user_0d_2 on your server (in localhost). 
