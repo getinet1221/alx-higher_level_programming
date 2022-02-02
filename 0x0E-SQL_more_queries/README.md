@@ -1,5 +1,6 @@
 ## 0x0E. SQL - More queries
 <img src="sampleJoin.jpg" height="400" width="600" alt="unable to show an image" />
+
 ### Learning objectives
 - How to create a new MySQL user
 - How to manage privileges for a user to a database or table
