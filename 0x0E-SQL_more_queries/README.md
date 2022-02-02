@@ -1,5 +1,5 @@
-##0x0E. SQL - More queries
-###Learning objectives
+## 0x0E. SQL - More queries
+### Learning objectives
 - How to create a new MySQL user
 - How to manage privileges for a user to a database or table
 - What’s a PRIMARY KEY
@@ -8,7 +8,7 @@
 - How to retrieve datas from multiple tables in one request
 - What are subqueries
 - What are JOIN and UNION
-###Requirements
+### Requirements
 - Allowed editors: vi, vim, emacs
 - All your files will be executed on Ubuntu 20.04 LTS using MySQL 8.0 (version 8.0.25)
 - All your files should end with a new line
@@ -17,4 +17,4 @@
 - All SQL keywords should be in uppercase (SELECT, WHERE…)
 - A README.md file, at the root of the folder of the project, is mandatory
 - The length of your files will be tested using wc
-- **Join graphically** <img src="Join.png" alt="unable to view image" />
+- **Join graphically** <img src="Join.png" height="100" width="100" alt="unable to view image" />
