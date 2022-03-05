@@ -55,5 +55,3 @@ The biggest difference is: no more SQL queries! Indeed, the purpose of an ORM is
 ## Developer
 Getinet Amare
 - [@getinet1221](https://github.com/getinet1221/)
-
-:man_technologist: :books: :computer: :globe_with_meridians:
